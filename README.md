@@ -1,1 +1,1 @@
-"# djangoPractice" 
+# Django Practice
